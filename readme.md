@@ -9,7 +9,7 @@
 This repo implements a blind steganography system using a Convolutional Neural Network (CNN).
 It allows us to hide a grayscale SECRET inside a full-color COVER image, producing a STEGO IMAGE, that looks almost identical to the COVER.
 
-## What is Steganography
+## What is Steganography ?
 
 Steganography hides the very existence of the message in a image. In digital imaging, this involves modifying the pixel values of a cover image to embed secret data without creating visible artifacts.
 
